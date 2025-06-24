@@ -20,11 +20,11 @@
 
 @media(max-width: 780px){
     #type{
-        width: 300px;
+        width: 400px;
     }
 }
 
-@media(max-width: 300px){
+@media(max-width: 480px){
     #type{
         width: 300px;
     }
