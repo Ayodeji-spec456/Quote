@@ -1,0 +1,15 @@
+#type {
+    border: 5px solid darkmagenta;
+    border-radius: 10px;
+    width: 500px;
+    padding: 30px;
+    background-color: darkmagenta;
+    margin: auto;
+    color: white;
+}
+#button {
+    padding: 10px; 
+    background-color: rgb(19, 5, 19);
+    color: white;
+    box-shadow: 5px 2px;
+}
