@@ -3,13 +3,29 @@
     border-radius: 10px;
     width: 500px;
     padding: 30px;
+    padding-top: 40px;
     background-color: darkmagenta;
     margin: auto;
     color: white;
+    box-shadow: 10px 10px rgb(19, 5, 19);
 }
 #button {
     padding: 10px; 
     background-color: rgb(19, 5, 19);
     color: white;
     box-shadow: 5px 2px;
+}
+
+
+
+@media(max-width: 780px){
+    .general{
+        width: 400px;
+    }
+}
+
+@media(max-width: 480px){
+    .general{
+        width: 300px;
+    }
 }
