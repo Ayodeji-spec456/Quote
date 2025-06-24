@@ -19,13 +19,13 @@
 
 
 @media(max-width: 780px){
-    .general{
+    #type{
         width: 400px;
     }
 }
 
 @media(max-width: 480px){
-    .general{
+    #type{
         width: 300px;
     }
 }
